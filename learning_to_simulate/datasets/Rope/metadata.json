@@ -1,0 +1,1 @@
+{"bounds": [[-2, 2], [-2, 2]], "sequence_length": 49, "default_connectivity_radius": 1.00, "pos_dim": 2, "control_dim": 3, "dt": 0.625, "vel_mean": [0, 0], "vel_std": [1, 1], "acc_mean": [0, 0], "acc_std": [1, 1]}

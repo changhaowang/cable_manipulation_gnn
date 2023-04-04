@@ -1,0 +1,2 @@
+python collect_rope_data_2d.py
+python learning_to_simulate/train.py
